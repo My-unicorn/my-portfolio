@@ -1,3 +1,4 @@
+
 /*!
  * Materialize v1.0.0-rc.1 (http://materializecss.com)
  * Copyright 2014-2017 Materialize
@@ -12334,4 +12335,4 @@ $jscomp.polyfill = function (e, r, p, m) {
   }
 
   Range.init($('input[type=range]'));
-})(cash, M.anime);
+})(cash, M.anime)
