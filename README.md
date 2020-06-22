@@ -12,4 +12,4 @@
 
 
 
-Please check out my website [here](https://arayanawrath.com/)
+Please check out my website [here](http://www.arayanawrath.com/)
